@@ -1,10 +1,10 @@
 # 简单微信画像
 
 #### 介绍
-简单微信画像，扫码登陆WEB版微信，生成词云、好友信息统计图发送给文件助手。
-![词云](https://images.gitee.com/uploads/images/2019/0121/225205_6688c4b6_3042075.png "signature.png")
-![饼图](https://images.gitee.com/uploads/images/2019/0121/225636_186fcf31_3042075.png "WX20190121-225616@2x.png")
-![地理坐标系](https://images.gitee.com/uploads/images/2019/0121/225730_3a8848b5_3042075.png "WX20190121-225713@2x.png")
+扫码登陆WEB版微信，生成词云、好友统计图表发送给文件助手。
+![词云](images/example1.png)
+![饼图](images/example2.png)
+![地理坐标系](images/example3.png)
 
 
 #### 参考
