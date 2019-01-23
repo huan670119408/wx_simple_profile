@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+cityGeo.png
+nick_name.png
+pyechartsWordCloud.png
+sexPercentPie.png
+signature.png
