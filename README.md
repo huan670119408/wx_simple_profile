@@ -33,6 +33,8 @@ python 3.7.1
 
 安装 [jieba](https://github.com/fxsjy/jieba) `pip3 install jieba`
 
+安装 [wordcloud] `pip3 install wordcloud`
+
 #### 使用说明
 
 运行__main__.py，微信扫码登陆后图片会陆续发送给文件助手
