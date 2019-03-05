@@ -33,7 +33,7 @@ python 3.7.1
 
 安装 [jieba](https://github.com/fxsjy/jieba) `pip3 install jieba`
 
-安装 [wordcloud] `pip3 install wordcloud`
+安装 wordcloud `pip3 install wordcloud`
 
 #### 使用说明
 
